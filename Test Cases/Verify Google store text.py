@@ -39,3 +39,7 @@ except Exception as e:
 finally:
     driver.quit()  # Ensure the browser is closed
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> selenium
